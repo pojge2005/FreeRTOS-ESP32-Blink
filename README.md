@@ -16,6 +16,6 @@ Hardware Used:
 
 Output:
 - LED blinks every 1 second
-- Serial monitor displays task execution and core ID
+- Serial monitor displays task execution and core ID.
 
 Implemented a real-time LED control system using FreeRTOS on ESP32. Designed and deployed tasks with priority-based scheduling and core pinning to demonstrate multitasking and efficient resource utilization in embedded systems.
